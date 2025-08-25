@@ -42,7 +42,7 @@
 ## 📸 Screenshots  
 
 
-![ROI Extraction](assets/roi_example.png)  
+![ROI Extraction](assets/Screenshot 2025-07-04 131556.png)  
 *ROI extraction for gesture images*  
 
 ![YOLO Training](assets/Screenshot 2025-06-24 113308.png)  
