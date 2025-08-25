@@ -48,7 +48,7 @@
 ![YOLO Training](assets/Screenshot 2025-06-24 113308.png)  
 *Model training results*  
 
-![Real-time Detection](assets/detection_demo.gif)  
+![Real-time Detection](assets/Screenshot 2025-06-18 135424.png)  
 *Gesture detection in real-time*  
 
 ---
