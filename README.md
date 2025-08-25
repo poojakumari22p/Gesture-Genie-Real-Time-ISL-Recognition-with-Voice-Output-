@@ -40,12 +40,12 @@
 ---
 
 ## 📸 Screenshots  
-(Add screenshots from your thesis here, example 👇)  
+
 
 ![ROI Extraction](assets/roi_example.png)  
 *ROI extraction for gesture images*  
 
-![YOLO Training](assets/yolo_training.png)  
+![YOLO Training](assets/Screenshot 2025-06-24 113308.png)  
 *Model training results*  
 
 ![Real-time Detection](assets/detection_demo.gif)  
